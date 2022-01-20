@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TempWeather/static/css/main.ba334508.css",
+    "main.js": "/TempWeather/static/js/main.658b4afa.js",
+    "static/js/787.dc88478e.chunk.js": "/TempWeather/static/js/787.dc88478e.chunk.js",
+    "static/media/alan-jones-OQsxdghBKrU-unsplash.jpg": "/TempWeather/static/media/alan-jones-OQsxdghBKrU-unsplash.a481e5bcf2ba397991a4.jpg",
+    "index.html": "/TempWeather/index.html",
+    "main.ba334508.css.map": "/TempWeather/static/css/main.ba334508.css.map",
+    "main.658b4afa.js.map": "/TempWeather/static/js/main.658b4afa.js.map",
+    "787.dc88478e.chunk.js.map": "/TempWeather/static/js/787.dc88478e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba334508.css",
+    "static/js/main.658b4afa.js"
+  ]
+}
